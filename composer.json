@@ -7,7 +7,7 @@
 			"Demo\\demo\\ComposerDemo\\" : "src"
 		}
 	},
-	"name" : "demo/ComposerDemo",
+	"name" : "demo/composerdemo",
 	"license" : "MIT",
 	"type" : "library",
 	"version" : "1.0.0",
