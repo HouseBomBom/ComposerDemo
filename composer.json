@@ -1,0 +1,17 @@
+{
+	"keywords" : [
+		"demo"
+	],
+	"autoload" : {
+		"psr-4" : {
+			"Demo\\demo\\ComposerDemo\\" : "src"
+		}
+	},
+	"name" : "demo\\demo/ComposerDemo",
+	"license" : "MIT",
+	"type" : "library",
+	"version": "1.0.0",
+	"require" : {
+		"php" : ">=5.6"
+	}
+}
